@@ -1,0 +1,15 @@
+.tabela {
+  width: 100%;
+}
+
+.edit {
+  margin-right: 10px;
+}
+
+.edit>span {
+  color: #d9cd26;
+}
+
+.delete>span {
+  color: #e35e6b;
+}
