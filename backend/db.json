@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta Básica",
+      "price": "1.50"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Ultra",
+      "price": "10520.89"
+    },
+    {
+      "name": "Placa de vídeo GeForce 2080 RTX",
+      "price": "18400.99",
+      "id": 4
+    }
+  ]
+}
