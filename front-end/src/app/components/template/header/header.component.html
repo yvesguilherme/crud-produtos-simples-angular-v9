@@ -1,12 +1,10 @@
 <mat-toolbar color="primary" class="header mat-elevation-z6">
-  <span>
-    <a routerLink="/">
-      <img class="logo" src="assets/img/logo.png" alt="logo">
-    </a>
-  </span>
+  <a routerLink="{{ routeUrl }}">
+    <img class="logo" src="assets/img/logo.png" alt="logo">
+  </a>
   <span class="title-group">
-    <a>
-      <span class="material-icons">home</span> Início
+    <a routerLink="{{ routeUrl }}">
+      <span class="material-icons">{{ icon }}</span> {{ title }}
     </a>
   </span>
 </mat-toolbar>
